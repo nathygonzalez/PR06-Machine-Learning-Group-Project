@@ -52,12 +52,16 @@ Group ?
 
 ## Checkpoints:
 
-* Week 0.- Groups - Repo - Organisationç
+* Week 0.- Groups - Repo - Organisation
 * Week 1.- EDA
 * Week 2.- Feature Engineering
 * Week 3.- Modeling
 * Week 4.- Optimisation & Presentation
 
+## Last year projects (for reference)
+- https://github.com/julrods/project-ml-onlineshop/
+- https://github.com/xabstep/project-ml-show-noshow/
+- https://github.com/borjatv/project-ml-bank-churn/
 
 
 

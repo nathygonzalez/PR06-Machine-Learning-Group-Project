@@ -41,13 +41,13 @@ The datasets provided include the players data for the Career Mode from FIFA 15 
 ## Objective
 
 ### Regression
-Group ?
+Group 3
 
 ### Clasification
-Group ?
+Group 2
 
 ### Clustering
-Group ?
+Group 1
 
 
 ## Checkpoints:

@@ -27,28 +27,21 @@ The datasets provided include the players data for the Career Mode from FIFA 15 
 - Sergio
 - Natália
 - Víctor
-
-### Group 2
 - Carlos
-- Kseniya
-- Néstor
 
 ### Group 3
 - Gerard
 - Adriana
 - Akram
+- Kseniya
 
 ## Objective
 
-### Regression
+### Regression & Clustering
 Group 3
 
-### Clasification
-Group 2
-
-### Clustering
+### Clasification & Clustering
 Group 1
-
 
 ## Checkpoints:
 

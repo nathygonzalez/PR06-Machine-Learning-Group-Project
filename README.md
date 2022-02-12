@@ -27,28 +27,21 @@ The datasets provided include the players data for the Career Mode from FIFA 15 
 - Sergio
 - Natália
 - Víctor
-
-### Group 2
 - Carlos
-- Kseniya
-- Néstor
 
 ### Group 3
 - Gerard
 - Adriana
 - Akram
+- Kseniya
 
 ## Objective
 
-### Regression
-Group ?
+### Regression & Clustering
+Group 3
 
-### Clasification
-Group ?
-
-### Clustering
-Group ?
-
+### Clasification & Clustering
+Group 1
 
 ## Checkpoints:
 
@@ -58,11 +51,15 @@ Group ?
 * Week 3.- Modeling
 * Week 4.- Optimisation & Presentation
 
-## Last year projects (for reference)
+### References
+
+### Last year projects (for reference)
 - https://github.com/julrods/project-ml-onlineshop/
 - https://github.com/xabstep/project-ml-show-noshow/
 - https://github.com/borjatv/project-ml-bank-churn/
 
+### Articles
+- https://www.graphext.com/post/the-moneyball-method-using-data-to-build-a-football-dream-team-on-a-budget
 
 
 

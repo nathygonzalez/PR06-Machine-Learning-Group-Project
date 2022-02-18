@@ -1,0 +1,111 @@
+campo,descripcion
+sofifa_id,unique player ID on sofifa
+player_url,URL of the scraped player
+short_name,player short name
+long_name,player long name
+player_positions,player preferred positions
+overall,player current overall attribute
+potential,player potential overall attribute
+value_eur,player value (in EUR)
+wage_eur,player weekly wage (in EUR)
+age,player age
+dob,player date of birth
+height_cm,player height (in cm)
+weight_kg,player weight (in kg)
+club_team_id,club id
+club_name,club name where the player plays
+league_name,league name of the club
+"league_level,""league rank of the club (e.g. English Premier League is 1, English League Championship is 2, etc.)"""
+"club_position,""player position in the club (e.g. SUB means substitute, RES means reserve)"""
+club_jersey_number,player jersey number in the club
+club_loaned_from,club loaning out the player - if applicable
+club_joined,date when the player joined his current club
+club_contract_valid_until,player contract expiration date
+nationality_id,player nationality id
+nationality_name,player nationality
+nation_team_id,nation team id
+nation_position,player position in the national team
+nation_jersey_number,player jersey number in the national team
+preferred_foot,player preferred foot
+weak_foot,player weak foot attribute
+skill_moves,player skill moves attribute
+international_reputation,player international reputation attribute
+work_rate,player work rate attributes (attacking / defensive)
+body_type,player body type
+real_face,player real face
+release_clause_eur,player release clause (in EUR) - if applicable
+player_tags,player tags
+player_traits,player traits
+pace,player pace attribute
+shooting,player shooting attribute
+passing,player passing attribute
+dribbling,player dribbling attribute
+defending,player defending attribute
+physic,player physic attribute
+attacking_crossing,player crossing attribute
+attacking_finishing,player finishing attribute
+attacking_heading_accuracy,player heading accuracy attribute
+attacking_short_passing,player short passing attribute
+attacking_volleys,player volleys attribute
+skill_dribbling,player special dribbling attribute
+skill_curve,player curve attribute
+skill_fk_accuracy,player free-kick accuracy attribute
+skill_long_passing,player long passing attribute
+skill_ball_control,player ball control attribute
+movement_acceleration,player acceleration attribute
+movement_sprint_speed,player sprint speed attribute
+movement_agility,player agility attribute
+movement_reactions,player reactions attribute
+movement_balance,player balance attribute
+power_shot_power,player shot power attribute
+power_jumping,player jumping attribute
+power_stamina,player stamina attribute
+power_strength,player strength attribute
+power_long_shots,player long shots attribute
+mentality_aggression,player aggression attribute
+mentality_interceptions,player interceptions attribute
+mentality_positioning,player positioning attribute
+mentality_vision,player vision attribute
+mentality_penalties,player penalties attribute
+mentality_composure,player composure attribute
+defending_marking_awareness,player marking awareness attribute
+defending_standing_tackle,player standing tackle attribute
+defending_sliding_tackle,player sliding tackle attribute
+goalkeeping_diving,player GK diving attribute
+goalkeeping_handling,player GK handling attribute
+goalkeeping_kicking,player GK kicking attribute
+goalkeeping_positioning,player GK positioning attribute
+goalkeeping_reflexes,player GK reflexes attribute
+goalkeeping_speed,player GK speed attribute
+ls,player attribute playing as Left Striker
+st,player attribute playing as Striker
+rs,player attribute playing as Right Striker
+lw,player attribute playing as Left Winger
+lf,player attribute playing as Left Forward
+cf,player attribute playing as Central Forward or Second Forward
+rf,player attribute playing as Right Forward
+rw,player attribute playing as Right Winger
+lam,player attribute playing as Left Attacking Midfielder
+cam,player attribute playing as Central Attacking Midfielder
+ram,player attribute playing as Right Attacking Midfielder
+lm,player attribute playing as Left Midfielder
+lcm,player attribute playing as Left Central Midfielder
+cm,player attribute playing as Central Midfielder
+rcm,player attribute playing as Right Central Midfielder
+rm,player attribute playing as Right Midfielder
+lwb,player attribute playing as Left Wing Back
+ldm,player attribute playing as Left Defensive Midfielder
+cdm,player attribute playing as Central Defensive Midfielder
+rdm,player attribute playing as Right Defensive Midfielder
+rwb,player attribute playing as Right Wing Back
+lb,player attribute playing as Left Back
+lcb,player attribute playing as Left Central Back
+cb,player attribute playing as Central Back
+rcb,player attribute playing as Right Central Back
+rb,player attribute playing as Right Back
+gk,player attribute playing as Goalkeaper
+player_face_url,URL of the player face
+club_logo_url,URL of the club logo
+club_flag_url,URL of the club nationality flag
+nation_logo_url,URL of the national team logo
+nation_flag_url,URL of the national flag

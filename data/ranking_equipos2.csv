@@ -1,0 +1,943 @@
+,club_name,link,ranking,puntos
+0,FC Barcelona,https://footballdatabase.com/clubs-ranking/fc-barcelona,13,1833
+1,Real Madrid CF,https://footballdatabase.com/clubs-ranking/real-madrid,4,1980
+2,FC Bayern München,https://footballdatabase.com/clubs-ranking/bayern-munchen,1,2089
+3,Paris Saint-Germain,https://footballdatabase.com/clubs-ranking/paris-saint-germain,8,1907
+4,Manchester United,https://footballdatabase.com/clubs-ranking/manchester-united,15,1813
+5,Chelsea,https://footballdatabase.com/clubs-ranking/chelsea-london,7,1922
+6,Manchester City,https://footballdatabase.com/clubs-ranking/manchester-city,2,2015
+7,Arsenal,https://footballdatabase.com/clubs-ranking/arsenal-london,19,1799
+8,Borussia Dortmund,https://footballdatabase.com/clubs-ranking/borussia-dortmund,18,1805
+9,Juventus,https://footballdatabase.com/clubs-ranking/juventus-turin,9,1877
+10,Tottenham Hotspur,https://footballdatabase.com/clubs-ranking/tottenham-hotspur,28,1753
+11,Roma,https://footballdatabase.com/clubs-ranking/roma,38,1725
+12,Galatasaray SK,https://footballdatabase.com/clubs-ranking/galatasaray,240,1527
+13,Atlético de Madrid,https://footballdatabase.com/clubs-ranking/atletico-madrid,16,1809
+14,FC Schalke 04,https://footballdatabase.com/clubs-ranking/schalke-04,659,1400
+15,Napoli,https://footballdatabase.com/clubs-ranking/ssc-napoli,10,1857
+16,AS Monaco,https://footballdatabase.com/clubs-ranking/monaco,54,1687
+17,Inter,https://footballdatabase.com/clubs-ranking/inter-milan,6,1945
+18,Valencia CF,https://footballdatabase.com/clubs-ranking/valencia,64,1672
+19,AC Milan,https://footballdatabase.com/clubs-ranking/ac-milan,12,1841
+20,PFC CSKA Moscow,https://footballdatabase.com/clubs-ranking/cska-moskva,171,1558
+21,AS Saint-Étienne,https://footballdatabase.com/clubs-ranking/saint-etienne,440,1451
+22,Zenit St. Petersburg,https://footballdatabase.com/clubs-ranking/zenit-petersburg,53,1690
+23,Liverpool,https://footballdatabase.com/clubs-ranking/liverpool-fc-liverpool,3,2007
+24,Lazio,https://footballdatabase.com/clubs-ranking/lazio,32,1747
+25,Fiorentina,https://footballdatabase.com/clubs-ranking/fiorentina,86,1628
+26,Everton,https://footballdatabase.com/clubs-ranking/everton-fc-liverpool,165,1561
+27,SL Benfica,https://footballdatabase.com/clubs-ranking/benfica,24,1774
+28,Hamburger SV,https://footballdatabase.com/clubs-ranking/hamburger-sv,211,1539
+29,Fenerbahçe SK,https://footballdatabase.com/clubs-ranking/fenerbahce,195,1545
+30,Olympique de Marseille,https://footballdatabase.com/clubs-ranking/olympique-marseille,62,1676
+31,Real Sociedad,https://footballdatabase.com/clubs-ranking/real-sociedad-san-sebastian,45,1709
+32,Stoke City,https://footballdatabase.com/clubs-ranking/stoke-city,243,1526
+33,VfL Wolfsburg,https://footballdatabase.com/clubs-ranking/wolfsburg,169,1559
+34,Bayer 04 Leverkusen,https://footballdatabase.com/clubs-ranking/bayer-leverkusen,23,1787
+35,FC Porto,https://footballdatabase.com/clubs-ranking/fc-porto,11,1845
+36,,https://footballdatabase.com/clubs-ranking/bec-tero-sasana,1479,1297
+37,FC Girondins de Bordeaux,https://footballdatabase.com/clubs-ranking/bordeaux,449,1448
+38,Sporting CP,https://footballdatabase.com/clubs-ranking/sporting,22,1792
+39,Beşiktaş JK,https://footballdatabase.com/clubs-ranking/besiktas,263,1513
+40,Brøndby IF,https://footballdatabase.com/clubs-ranking/brondby,347,1477
+41,Seattle Sounders FC,https://footballdatabase.com/clubs-ranking/seattle-sounders-fc,398,1462
+42,FC Lokomotiv Moscow,https://footballdatabase.com/clubs-ranking/lokomotiv-moskva,196,1544
+43,Villarreal CF,https://footballdatabase.com/clubs-ranking/villarreal,20,1795
+44,Dinamo Moscow,https://footballdatabase.com/clubs-ranking/dinamo-moskva,172,1558
+45,Sevilla FC,https://footballdatabase.com/clubs-ranking/sevilla,14,1827
+46,Athletic Club de Bilbao,https://footballdatabase.com/clubs-ranking/athletic-bilbao,49,1700
+47,Swansea City,https://footballdatabase.com/clubs-ranking/swansea-city,259,1515
+48,TSG Hoffenheim,https://footballdatabase.com/clubs-ranking/hoffenheim,68,1667
+49,Parma,https://footballdatabase.com/clubs-ranking/parma,741,1385
+50,Gallos Blancos de Querétaro,https://footballdatabase.com/clubs-ranking/queretaro-gallos,713,1390
+51,Toronto FC,https://footballdatabase.com/clubs-ranking/toronto-fc,1232,1321
+52,Melbourne City FC,https://footballdatabase.com/clubs-ranking/melbourne-city-fc,801,1373
+53,LOSC Lille,https://footballdatabase.com/clubs-ranking/lille,44,1711
+54,Málaga CF,https://footballdatabase.com/clubs-ranking/malaga,460,1446
+55,Borussia Mönchengladbach,https://footballdatabase.com/clubs-ranking/borussia-monchengladbach,95,1619
+56,West Ham United,https://footballdatabase.com/clubs-ranking/west-ham-united,31,1748
+57,Southampton,https://footballdatabase.com/clubs-ranking/southampton,103,1614
+58,RCD Espanyol de Barcelona,https://footballdatabase.com/clubs-ranking/espanyol,177,1555
+59,Aston Villa,https://footballdatabase.com/clubs-ranking/aston-villa,72,1654
+60,Trabzonspor,https://footballdatabase.com/clubs-ranking/trabzonspor,101,1616
+61,Spartak Moskva,https://footballdatabase.com/clubs-ranking/spartak-moskva,198,1544
+62,Eintracht Frankfurt,https://footballdatabase.com/clubs-ranking/eintracht-frankfurt,39,1718
+63,Shakhtar Donetsk,https://footballdatabase.com/clubs-ranking/shakhtar-donetsk,41,1714
+64,Olympique Lyonnais,https://footballdatabase.com/clubs-ranking/lyon,47,1703
+65,LA Galaxy,https://footballdatabase.com/clubs-ranking/los-angeles-galaxy,1087,1336
+66,Queens Park Rangers,https://footballdatabase.com/clubs-ranking/queens-park-rangers,451,1448
+67,Newcastle United,https://footballdatabase.com/clubs-ranking/newcastle-united,166,1560
+68,Hull City,https://footballdatabase.com/clubs-ranking/hull-city,376,1470
+69,West Bromwich Albion,https://footballdatabase.com/clubs-ranking/west-brom,344,1478
+70,VfB Stuttgart,https://footballdatabase.com/clubs-ranking/vfb-stuttgart,231,1530
+71,Hertha BSC,https://footballdatabase.com/clubs-ranking/hertha-berlin,189,1549
+72,Hannover 96,https://footballdatabase.com/clubs-ranking/hannover-96,526,1429
+73,Getafe CF,https://footballdatabase.com/clubs-ranking/getafe,88,1624
+74,Torino F.C.,https://footballdatabase.com/clubs-ranking/torino,106,1611
+75,Ajax,https://footballdatabase.com/clubs-ranking/ajax-amsterdam,5,1949
+76,New York Red Bulls,https://footballdatabase.com/clubs-ranking/new-york-red-bulls,671,1397
+77,Real Betis Balompié,https://footballdatabase.com/clubs-ranking/real-betis,37,1727
+78,Udinese Calcio,https://footballdatabase.com/clubs-ranking/udinese,132,1587
+79,Jeonbuk Hyundai Motors,https://footballdatabase.com/clubs-ranking/jeonbuk-fc,91,1621
+80,Leicester City,https://footballdatabase.com/clubs-ranking/leicester-city,59,1678
+81,Racing Club,https://footballdatabase.com/clubs-ranking/racing-club-avellaneda,124,1596
+82,Stade Rennais FC,https://footballdatabase.com/clubs-ranking/rennes,80,1635
+83,U.S. Sassuolo Calcio,https://footballdatabase.com/clubs-ranking/sassuolo,93,1620
+84,Granada CF,https://footballdatabase.com/clubs-ranking/granada,143,1578
+85,Fulham,https://footballdatabase.com/clubs-ranking/fulham,418,1457
+86,PSV,https://footballdatabase.com/clubs-ranking/psv-eindhoven,46,1706
+87,Olympiacos CFP,No disponible,No disponible,No disponible
+88,Al Hilal,https://footballdatabase.com/clubs-ranking/al-hilal,63,1674
+89,FC Krasnodar,https://footballdatabase.com/clubs-ranking/fc-krasnodar,205,1541
+90,FC Metz,https://footballdatabase.com/clubs-ranking/metz,486,1439
+91,Newell's Old Boys,https://footballdatabase.com/clubs-ranking/newells-old-boys,350,1476
+92,Real Valladolid CF,https://footballdatabase.com/clubs-ranking/valladolid,273,1509
+93,Levante Unión Deportiva,https://footballdatabase.com/scores/2021-08-14,No disponible,No disponible
+94,New England Revolution,https://footballdatabase.com/clubs-ranking/new-england-revolution,485,1439
+95,FC Augsburg,https://footballdatabase.com/clubs-ranking/augsburg,155,1569
+96,Stade de Reims,https://footballdatabase.com/clubs-ranking/reims,222,1534
+97,Atalanta,https://footballdatabase.com/clubs-ranking/atalanta,21,1795
+98,Montpellier Hérault SC,No disponible,No disponible,No disponible
+99,Rayo Vallecano,https://footballdatabase.com/clubs-ranking/rayo-vallecano,118,1602
+100,Norwich City,https://footballdatabase.com/clubs-ranking/norwich-city,547,1424
+101,Kaizer Chiefs,https://footballdatabase.com/clubs-ranking/kaizer-chiefs,536,1427
+102,Sunderland,https://footballdatabase.com/clubs-ranking/sunderland,514,1432
+103,1. FC Köln,https://footballdatabase.com/clubs-ranking/koln,82,1634
+104,U.C. Sampdoria,https://footballdatabase.com/clubs-ranking/sampdoria,163,1562
+105,Feyenoord,https://footballdatabase.com/clubs-ranking/feyenoord,67,1668
+106,Portland Timbers,https://footballdatabase.com/clubs-ranking/portland-timbers,497,1437
+107,Panathinaikos FC,https://footballdatabase.com/clubs-ranking/panathinaikos,304,1495
+108,RC Celta de Vigo,https://footballdatabase.com/clubs-ranking/celta-vigo,42,1714
+109,Demir Grup Sivasspor,No disponible,No disponible,No disponible
+110,Al Shabab,https://footballdatabase.com/clubs-ranking/al-shabab-riyadh,323,1485
+111,Al Ittihad,https://footballdatabase.com/clubs-ranking/al-ittihad-jeddah,311,1490
+112,Vélez Sarsfield,https://footballdatabase.com/clubs-ranking/velez-sarsfield,96,1618
+113,Kuban Krasnodar,https://footballdatabase.com/clubs-ranking/kuban-krasnodar,620,1406
+114,1. FSV Mainz 05,https://footballdatabase.com/clubs-ranking/mainz-05,75,1643
+115,FC Red Bull Salzburg,https://footballdatabase.com/clubs-ranking/salzburg,33,1746
+116,FC Nantes,https://footballdatabase.com/clubs-ranking/nantes,176,1556
+117,Toulouse Football Club,https://footballdatabase.com/clubs-ranking/toulouse,1391,1304
+118,Sport-Club Freiburg,https://footballdatabase.com/scores/2020-02-02,No disponible,No disponible
+119,SC Braga,https://footballdatabase.com/clubs-ranking/braga,77,1636
+120,Elche CF,https://footballdatabase.com/clubs-ranking/elche,115,1603
+121,Bursaspor,https://footballdatabase.com/clubs-ranking/bursaspor,781,1376
+122,Real Salt Lake,https://footballdatabase.com/clubs-ranking/real-salt-lake,969,1350
+123,FC Basel 1893,https://footballdatabase.com/clubs-ranking/basel,131,1589
+124,Hellas Verona,https://footballdatabase.com/clubs-ranking/hellas-verona,90,1621
+125,1. FC Nürnberg,https://footballdatabase.com/clubs-ranking/nurnberg,705,1391
+126,Colo-Colo,https://footballdatabase.com/clubs-ranking/colo-colo,317,1488
+127,Boca Juniors,https://footballdatabase.com/clubs-ranking/boca-juniors,66,1668
+128,Club América,https://footballdatabase.com/clubs-ranking/america-aguilas,144,1577
+129,OGC Nice,https://footballdatabase.com/clubs-ranking/nice,83,1631
+130,Columbus Crew,https://footballdatabase.com/clubs-ranking/columbus-crew,672,1397
+131,RSC Anderlecht,https://footballdatabase.com/clubs-ranking/anderlecht,227,1531
+132,SV Werder Bremen,https://footballdatabase.com/clubs-ranking/werder-bremen,301,1496
+133,Club de Foot Montréal,No disponible,No disponible,No disponible
+134,Cardiff City,https://footballdatabase.com/clubs-ranking/cardiff-city,367,1472
+135,Celtic,https://footballdatabase.com/clubs-ranking/celtic,56,1683
+136,Çaykur Rizespor,https://footballdatabase.com/clubs-ranking/rizespor,1079,1337
+137,Vancouver Whitecaps FC,https://footballdatabase.com/clubs-ranking/vancouver-whitecaps,1093,1336
+138,Genoa,https://footballdatabase.com/clubs-ranking/genoa,325,1485
+139,Rubin Kazan,https://footballdatabase.com/clubs-ranking/rubin-kazan,373,1471
+140,Al Nassr,https://footballdatabase.com/clubs-ranking/al-nassr-fc-riyadh,182,1553
+141,Deportivo de La Coruña,https://footballdatabase.com/clubs-ranking/deportivo-la-coruna,322,1486
+142,Crystal Palace,https://footballdatabase.com/clubs-ranking/crystal-palace,111,1606
+143,FC Lorient,https://footballdatabase.com/clubs-ranking/lorient,490,1439
+144,River Plate,https://footballdatabase.com/clubs-ranking/river-plate-buenos-aires,27,1758
+145,San Lorenzo de Almagro,https://footballdatabase.com/clubs-ranking/san-lorenzo,351,1476
+146,SD Eibar,https://footballdatabase.com/clubs-ranking/sd-eibar,257,1517
+147,CA Osasuna,https://footballdatabase.com/clubs-ranking/osasuna,100,1616
+148,Gaziantepspor,https://footballdatabase.com/clubs-ranking/gaziantepspor,1558,1291
+149,PAOK,https://footballdatabase.com/clubs-ranking/paok-thessaloniki-fc,85,1629
+150,Cruz Azul,https://footballdatabase.com/clubs-ranking/cruz-azul,170,1559
+151,Club Tijuana,https://footballdatabase.com/clubs-ranking/tijuana-xolos,692,1393
+152,Eskişehirspor,https://footballdatabase.com/clubs-ranking/eskisehirspor,1010,1346
+153,Kasimpaşa SK,https://footballdatabase.com/clubs-ranking/kasimpasa,640,1404
+154,Chievo Verona,https://footballdatabase.com/clubs-ranking/chievo-verona,777,1377
+155,Évian Thonon Gaillard FC,No disponible,No disponible,No disponible
+156,Tigres U.A.N.L.,https://footballdatabase.com/clubs-ranking/tigres-uanl,110,1607
+157,Vitesse,https://footballdatabase.com/clubs-ranking/vitesse,213,1537
+158,PEC Zwolle,https://footballdatabase.com/clubs-ranking/pec-zwolle,979,1350
+159,Estoril Praia,https://footballdatabase.com/clubs-ranking/estoril,587,1413
+160,FC Twente,https://footballdatabase.com/clubs-ranking/fc-twente,241,1526
+161,Cagliari,https://footballdatabase.com/clubs-ranking/cagliari,253,1520
+162,Córdoba CF,https://footballdatabase.com/clubs-ranking/cordoba-cf,870,1363
+163,FC Utrecht,https://footballdatabase.com/clubs-ranking/fc-utrecht,147,1575
+164,CF Monterrey,https://footballdatabase.com/clubs-ranking/monterrey-rayados,112,1605
+165,Standard de Liège,https://footballdatabase.com/clubs-ranking/standard-liege,650,1402
+166,Club Atlético Lanús,https://footballdatabase.com/clubs-ranking/lanus,175,1556
+167,En Avant de Guingamp,No disponible,No disponible,No disponible
+168,Club Independiente Santa Fe,https://footballdatabase.com/clubs-ranking/santa-fe,314,1490
+169,SC Bastia,https://footballdatabase.com/clubs-ranking/sc-bastia,392,1464
+170,Royal Charleroi S.C.,https://footballdatabase.com/clubs-ranking/sporting-charleroi,409,1459
+171,F.C. København,https://footballdatabase.com/clubs-ranking/kobenhavn,148,1575
+172,Palermo,https://footballdatabase.com/clubs-ranking/palermo,674,1397
+173,Cesena,https://footballdatabase.com/clubs-ranking/cesena,891,1359
+174,Watford,https://footballdatabase.com/clubs-ranking/watford,320,1487
+175,Unión Deportiva Almería,https://footballdatabase.com/scores/2011-02-20,No disponible,No disponible
+176,FC Rostov,https://footballdatabase.com/clubs-ranking/fk-rostov,481,1440
+177,Wigan Athletic,https://footballdatabase.com/clubs-ranking/wigan-athletic,261,1515
+178,FC Zürich,https://footballdatabase.com/clubs-ranking/zurich,386,1466
+179,Universidad Católica,https://footballdatabase.com/clubs-ranking/universidad-catolica-santiago,140,1581
+180,Orlando Pirates,https://footballdatabase.com/clubs-ranking/orlando-pirates,397,1462
+181,Club Atlas,https://footballdatabase.com/clubs-ranking/atlas,277,1508
+182,Al Ahli,https://footballdatabase.com/clubs-ranking/al-ahli-sc-jeddah,622,1406
+183,Catania,https://footballdatabase.com/clubs-ranking/catania,305,1494
+184,Sheffield Wednesday,https://footballdatabase.com/clubs-ranking/sheffield-united-fc,380,1468
+185,Middlesbrough,https://footballdatabase.com/clubs-ranking/middlesbrough,467,1443
+186,Club Atlético Tigre,https://footballdatabase.com/clubs-scores/tigre/5,No disponible,No disponible
+187,Wolverhampton Wanderers,https://footballdatabase.com/clubs-ranking/wolverhampton-wanderers,50,1697
+188,Blackburn Rovers,https://footballdatabase.com/clubs-ranking/blackburn-rovers,410,1459
+189,Molde FK,https://footballdatabase.com/clubs-ranking/molde,146,1575
+190,San Jose Earthquakes,https://footballdatabase.com/clubs-ranking/san-jose-earthquakes,1300,1314
+191,Wisła Kraków,https://footballdatabase.com/clubs-ranking/wisla-krakow,1225,1322
+192,CD Nacional,https://footballdatabase.com/league-scores-tables/honduras-liga-nacional-clausura-2021,No disponible,No disponible
+193,Universidad de Chile,https://footballdatabase.com/clubs-ranking/universidad-de-chile,562,1419
+194,Vitória de Guimarães,https://footballdatabase.com/clubs-ranking/vitoria-guimaraes,326,1484
+195,AZ Alkmaar,https://footballdatabase.com/clubs-ranking/az-alkmaar,61,1676
+196,FC Groningen,https://footballdatabase.com/clubs-ranking/fc-groningen,333,1480
+197,Rio Ave FC,https://footballdatabase.com/clubs-ranking/rio-ave,465,1443
+198,Al Fateh,https://footballdatabase.com/clubs-ranking/al-fateh-fc,890,1359
+199,Club León,https://footballdatabase.com/clubs-ranking/leon,135,1584
+200,Atlético Nacional,https://footballdatabase.com/clubs-ranking/atletico-nacional,199,1543
+201,Club Brugge KV,https://footballdatabase.com/clubs-ranking/club-brugge,130,1589
+202,Unión Deportiva Las Palmas,https://footballdatabase.com/scores/2015-10-25,No disponible,No disponible
+203,Melbourne Victory,https://footballdatabase.com/clubs-ranking/melbourne-victory,1362,1307
+204,AC Arles Avignon,No disponible,No disponible,No disponible
+205,Akhisar Belediyespor,https://footballdatabase.com/clubs-ranking/erzurum-buyukehir-belediyespor,1042,1342
+206,İttifak Holding Konyaspor,No disponible,No disponible,No disponible
+207,Malmö FF,https://footballdatabase.com/clubs-ranking/malmo-ff,168,1560
+208,Rosenborg BK,https://footballdatabase.com/clubs-ranking/rosenborg,355,1475
+209,Kayseri Erciyesspor,https://footballdatabase.com/clubs-ranking/kazseri-erciyesspor,1244,1319
+210,Real Zaragoza,https://footballdatabase.com/clubs-ranking/real-zaragoza,375,1470
+211,Fortuna Düsseldorf,https://footballdatabase.com/clubs-ranking/fortuna-dusseldorf,207,1541
+212,Sydney FC,https://footballdatabase.com/clubs-ranking/sydney-fc,457,1447
+213,Estudiantes de La Plata,https://footballdatabase.com/clubs-ranking/estudiantes,133,1586
+214,Belgrano de Córdoba,https://footballdatabase.com/clubs-ranking/club-atletico-central-cordoba-de-santiago,364,1473
+215,İstanbul Başakşehir FK,https://footballdatabase.com/scores/2020-10-20,No disponible,No disponible
+216,Deportivo Toluca,https://footballdatabase.com/clubs-ranking/toluca,328,1482
+217,Junior FC,https://footballdatabase.com/clubs-ranking/atletico-junior,235,1529
+218,Stade Malherbe Caen,No disponible,No disponible,No disponible
+219,Pachuca,https://footballdatabase.com/clubs-ranking/pachuca,233,1529
+220,Philadelphia Union,https://footballdatabase.com/clubs-ranking/philadelphia-union,523,1429
+221,Brighton & Hove Albion,https://footballdatabase.com/clubs-ranking/brighton-hove-albion,71,1660
+222,KVC Westerlo,No disponible,No disponible,No disponible
+223,Kardemir Karabükspor,No disponible,No disponible,No disponible
+224,Terek Grozny,https://footballdatabase.com/clubs-ranking/terek-grozny,411,1459
+225,SpVgg Greuther Fürth,https://footballdatabase.com/clubs-ranking/greuther-furth,743,1384
+226,Sporting Kansas City,https://footballdatabase.com/clubs-ranking/sporting-kansas-city,626,1405
+227,AIK,https://footballdatabase.com/clubs-ranking/aik,232,1529
+228,Ulsan Hyundai FC,https://footballdatabase.com/clubs-ranking/ulsan-hyundai,105,1612
+229,KRC Genk,https://footballdatabase.com/clubs-ranking/genk,270,1510
+230,Aalesunds FK,https://footballdatabase.com/clubs-ranking/aalesund,2426,1225
+231,KV Oostende,https://footballdatabase.com/clubs-ranking/kv-oostende,1102,1335
+232,Houston Dynamo,https://footballdatabase.com/clubs-ranking/houston-dynamo,1780,1271
+233,Chivas USA,https://footballdatabase.com/clubs-ranking/chivas-usa,2599,1206
+234,Sporting Lokeren,https://footballdatabase.com/league-scores-tables/belgium-jupiler-league-2016-17,No disponible,No disponible
+235,Independiente Medellín,https://footballdatabase.com/clubs-ranking/independiente-medellin,434,1453
+236,Grasshopper Club Zürich,https://footballdatabase.com/clubs-ranking/grasshopper-club-zuerich,1145,1330
+237,AC Ajaccio,https://footballdatabase.com/clubs-ranking/ajaccio,832,1369
+238,Empoli,https://footballdatabase.com/clubs-ranking/empoli-fc,184,1551
+239,FC Sochaux-Montbéliard,No disponible,No disponible,No disponible
+240,Valenciennes FC,https://footballdatabase.com/clubs-ranking/valenciennes,733,1387
+241,Suwon Samsung Bluewings,https://footballdatabase.com/clubs-ranking/suwon-bluewings,582,1415
+242,Burnley,https://footballdatabase.com/clubs-ranking/burnley,159,1565
+243,Monarcas Morelia,https://footballdatabase.com/clubs-ranking/morelia-monarcas,316,1488
+244,Once Caldas,https://footballdatabase.com/clubs-ranking/once-caldas,597,1412
+245,CD Tenerife,https://footballdatabase.com/clubs-ranking/tenerife,388,1465
+246,AJ Auxerre,https://footballdatabase.com/clubs-ranking/auxerre,400,1461
+247,Kilmarnock,https://footballdatabase.com/clubs-ranking/kilmarnock,1211,1324
+248,Bolton Wanderers,https://footballdatabase.com/clubs-ranking/bolton-wanderers,354,1475
+249,Derby County,https://footballdatabase.com/,No disponible,No disponible
+250,Unión Española,https://footballdatabase.com/clubs-ranking/union-espanola,625,1406
+251,VfL Bochum 1848,https://footballdatabase.com/clubs-ranking/bochum,268,1512
+252,CD O'Higgins,https://footballdatabase.com/league-scores/chile-primera-clausura-2012/2,No disponible,No disponible
+253,FC Arouca,https://footballdatabase.com/clubs-ranking/arouca,875,1362
+254,Jaguares de Chiapas,https://footballdatabase.com/clubs-ranking/jaguares-chiapas,906,1358
+255,Brescia,https://footballdatabase.com/clubs-ranking/brescia,791,1375
+256,Reading,https://footballdatabase.com/clubs-ranking/reading,518,1431
+257,Mersin İdman Yurdu,https://footballdatabase.com/clubs-ranking/mersin-idmanyurdu,1785,1271
+258,Legia Warszawa,https://footballdatabase.com/clubs-ranking/legia-warszawa,428,1455
+259,Torpedo Moscow,https://footballdatabase.com/clubs-ranking/fc-torpedo-moscow,826,1370
+260,RB Leipzig,https://footballdatabase.com/clubs-ranking/rasenballsport-leipzig,34,1746
+261,SC Paderborn 07,https://footballdatabase.com/clubs-ranking/paderborn,443,1451
+262,Racing Club de Lens,https://footballdatabase.com/clubs-ranking/lens,214,1537
+263,Associação Académica de Coimbra,No disponible,No disponible,No disponible
+264,Millonarios FC,https://footballdatabase.com/clubs-ranking/millonarios,188,1549
+265,1. FC Kaiserslautern,https://footballdatabase.com/clubs-ranking/kaiserslautern,560,1419
+266,AFC Bournemouth,https://footballdatabase.com/clubs-ranking/afc-bournemouth,267,1512
+267,Real Sporting de Gijón,https://footballdatabase.com/clubs-ranking/sporting-gijon,280,1504
+268,FC Luzern,https://footballdatabase.com/clubs-ranking/luzern,885,1360
+269,FC Dallas,https://footballdatabase.com/clubs-ranking/fc-dallas,1057,1340
+270,Santos Laguna,https://footballdatabase.com/clubs-ranking/santos-laguna,225,1532
+271,Strømsgodset IF,https://footballdatabase.com/clubs-ranking/stromsgodset,1007,1346
+272,RCD Mallorca,https://footballdatabase.com/league-scores/spain-liga-bbva-2009-10/3,No disponible,No disponible
+273,FC Paços de Ferreira,https://footballdatabase.com/clubs-ranking/pacos-de-ferreira,564,1418
+274,TSV 1860 München,https://footballdatabase.com/clubs-ranking/fc-wacker-innsbruck,1919,1261
+275,Clube Sport Marítimo,https://footballdatabase.com/scores/2018-01-07,No disponible,No disponible
+276,Bari,https://footballdatabase.com/clubs-ranking/bari,670,1398
+277,Livorno,https://footballdatabase.com/clubs-ranking/livorno,1062,1339
+278,Arsenal de Sarandí,https://footballdatabase.com/clubs-ranking/arsenal-de-sarandi,544,1424
+279,Gil Vicente FC,https://footballdatabase.com/clubs-ranking/gil-vicente,292,1499
+280,Club Atlético Independiente,http://footballdatabase.com/league-scores/colombia-liga-postobon-i-clausura-2018/1,No disponible,No disponible
+281,Nottingham Forest,https://footballdatabase.com/clubs-ranking/kokand-1912,1817,1269
+282,Belenenses SAD,https://footballdatabase.com/scores/2021-09-27,No disponible,No disponible
+283,BSC Young Boys,https://footballdatabase.com/clubs-ranking/young-boys,70,1660
+284,Rangers FC,https://footballdatabase.com/clubs-ranking/rangers-glasgow,40,1715
+285,Brisbane Roar,https://footballdatabase.com/clubs-ranking/brisbane-roar-fc,1324,1310
+286,Puebla FC,https://footballdatabase.com/clubs-ranking/puebla,228,1530
+287,Bologna,https://footballdatabase.com/clubs-ranking/bologna,162,1564
+288,Deportivo Cali,https://footballdatabase.com/clubs-ranking/deportivo-cali,293,1499
+289,Colorado Rapids,https://footballdatabase.com/clubs-ranking/colorado-rapids,709,1390
+290,SV Zulte Waregem,https://footballdatabase.com/clubs-ranking/zulte-waregem,999,1347
+291,Club Universidad Nacional,https://footballdatabase.com/clubs-ranking/universidad-de-san-carlos,1261,1318
+292,FC St. Gallen 1879,https://footballdatabase.com/clubs-ranking/sta-gallen,730,1387
+293,Deportivo Alavés,https://footballdatabase.com/clubs-ranking/alaves,283,1504
+294,Perugia,https://footballdatabase.com/clubs-ranking/banfield,371,1471
+295,Ipswich Town,No disponible,No disponible,No disponible
+296,Stade Brestois 29,https://footballdatabase.com/clubs-ranking/brest,271,1509
+297,Esbjerg fB,https://footballdatabase.com/clubs-ranking/esbjerg-fb,1814,1269
+298,Virtus Entella Chiavari,No disponible,No disponible,No disponible
+299,Club Deportivo Guadalajara,https://footballdatabase.com/scores/2018-03-08,No disponible,No disponible
+300,Birmingham City,https://footballdatabase.com/clubs-ranking/birmingham-city,294,1498
+301,KAA Gent,https://footballdatabase.com/clubs-ranking/gent,238,1527
+302,Pogoń Szczecin,https://footballdatabase.com/clubs-ranking/pogon-szczecin,399,1462
+303,Lech Poznań,https://footballdatabase.com/clubs-ranking/lech-poznan,365,1473
+304,FC Nordsjælland,https://footballdatabase.com/clubs-ranking/nordsjaelland,883,1361
+305,FC Ingolstadt 04,https://footballdatabase.com/clubs-ranking/ingolstadt,226,1532
+306,Leeds United,https://footballdatabase.com/clubs-ranking/leeds-united-afc,78,1636
+307,Stade Lavallois Mayenne FC,No disponible,No disponible,No disponible
+308,Santiago Wanderers,https://footballdatabase.com/clubs-ranking/santiago-wanderers,1606,1287
+309,Charlton Athletic,No disponible,No disponible,No disponible
+310,Pescara,https://footballdatabase.com/clubs-ranking/pescara,1445,1299
+311,SC Heerenveen,https://footballdatabase.com/clubs-ranking/sc-heerenveen,657,1401
+312,Inverness Caledonian Thistle,No disponible,No disponible,No disponible
+313,Eintracht Braunschweig,https://footballdatabase.com/clubs-ranking/eintracht-braunschweig,432,1454
+314,IFK Göteborg,https://footballdatabase.com/clubs-ranking/ifk-goteborg,614,1408
+315,Viking FK,https://footballdatabase.com/clubs-ranking/viking,438,1452
+316,Gençlerbirliği SK,No disponible,No disponible,No disponible
+317,Carpi,https://footballdatabase.com/clubs-ranking/carpi,236,1528
+318,Unión La Calera,https://footballdatabase.com/clubs-ranking/union-la-calera,652,1401
+319,Atlético de Rafaela,https://footballdatabase.com/clubs-ranking/atletico-rafaela,556,1420
+320,Trapani,No disponible,No disponible,No disponible
+321,CD Cobreloa,https://footballdatabase.com/clubs-ranking/cobreloa,882,1361
+322,Vålerenga Fotball,https://footballdatabase.com/clubs-ranking/bodo-glimt,154,1570
+323,SD Ponferradina,No disponible,No disponible,No disponible
+324,Le Havre AC,No disponible,No disponible,No disponible
+325,IF Elfsborg,https://footballdatabase.com/clubs-ranking/elfsborg,369,1471
+326,NAC Breda,https://footballdatabase.com/clubs-ranking/nac-breda,1465,1298
+327,Western Sydney Wanderers,https://footballdatabase.com/clubs-ranking/western-sydney,1285,1315
+328,FSV Frankfurt,https://footballdatabase.com/clubs-ranking/mainz-05,75,1643
+329,SK Rapid Wien,https://footballdatabase.com/clubs-ranking/rapid-wien,288,1502
+330,Girona FC,https://footballdatabase.com/clubs-ranking/girona,201,1542
+331,AS Nancy Lorraine,No disponible,No disponible,No disponible
+332,Aalborg BK,https://footballdatabase.com/clubs-ranking/aab-aalborg,658,1400
+333,FC Seoul,https://footballdatabase.com/clubs-ranking/fc-seoul,690,1393
+334,Rosario Central,https://footballdatabase.com/clubs-ranking/rosario-central,246,1525
+335,Uniautónoma FC,https://footballdatabase.com/clubs-ranking/uniautonoma,1174,1327
+336,RC Recreativo de Huelva,No disponible,No disponible,No disponible
+337,CD Lugo,No disponible,No disponible,No disponible
+338,FC Ural Yekaterinburg,https://footballdatabase.com/clubs-ranking/fc-ural,513,1432
+339,Ternana,No disponible,No disponible,No disponible
+340,Millwall,https://footballdatabase.com/clubs-ranking/fc-midtjylland,153,1571
+341,Śląsk Wrocław,https://footballdatabase.com/clubs-ranking/slask-wroclaw,815,1371
+342,FC Sion,https://footballdatabase.com/clubs-ranking/sion,782,1376
+343,CD Numancia,No disponible,No disponible,No disponible
+344,FC St. Pauli,https://footballdatabase.com/clubs-ranking/st-pauli,558,1420
+345,Boavista FC,https://footballdatabase.com/clubs-ranking/boavista,609,1409
+346,Moreirense FC,https://footballdatabase.com/clubs-ranking/moreirense,543,1424
+347,Huddersfield Town,https://footballdatabase.com/clubs-ranking/huddersfield-town,899,1358
+348,Brentford,https://footballdatabase.com/clubs-ranking/brentford-fc,255,1518
+349,Tiburones Rojos de Veracruz,https://footballdatabase.com/clubs-ranking/veracruz-tiburones,2263,1240
+350,Spezia,https://footballdatabase.com/clubs-ranking/asd-spezia-calcio-2008,187,1550
+351,Randers FC,https://footballdatabase.com/clubs-ranking/randers-fc,687,1394
+352,Balıkesirspor,https://footballdatabase.com/clubs-ranking/balikesirspor,1200,1325
+353,Jeju United FC,https://footballdatabase.com/clubs-ranking/jeju-united,589,1413
+354,Club Atlético Banfield,https://footballdatabase.com/clubs-ranking/banfield,371,1471
+355,Helsingborgs IF,https://footballdatabase.com/clubs-ranking/helsingborg,1371,1306
+356,Deportivo Pasto,https://footballdatabase.com/clubs-ranking/deportivo-pasto,927,1356
+357,Willem II,https://footballdatabase.com/clubs-ranking/willem-ii,928,1355
+358,Modena,No disponible,No disponible,No disponible
+359,Club de Deportes Cobresal,http://footballdatabase.com/clubs-scores/cobresal/2,No disponible,No disponible
+360,Nîmes Olympique,https://footballdatabase.com/clubs-ranking/nimes-olympique,453,1447
+361,FC Ufa,https://footballdatabase.com/clubs-ranking/fc-ufa,689,1393
+362,D.C. United,https://footballdatabase.com/clubs-ranking/dc-united,1073,1338
+363,ADO Den Haag,https://footballdatabase.com/clubs-ranking/ado-den-haag,1605,1287
+364,Odense Boldklub,https://footballdatabase.com/clubs-ranking/odense-bk,943,1354
+365,Godoy Cruz,https://footballdatabase.com/clubs-ranking/godoy-cruz-antonio-tomba,331,1481
+366,Dundee United,https://footballdatabase.com/clubs-ranking/dundee-united,1337,1309
+367,Dijon FCO,https://footballdatabase.com/clubs-ranking/dijon,1069,1339
+368,Deportivo Ñublense,https://footballdatabase.com/clubs-ranking/deportivo-lara,823,1371
+369,Club Deportivo Palestino,https://footballdatabase.com/league-scores/conmebol-copa-sudamericana-2017/2,No disponible,No disponible
+370,Gimnasia y Esgrima La Plata,https://footballdatabase.com/clubs-ranking/gimnasia-la-plata,247,1525
+371,FC Barcelona B,https://footballdatabase.com/clubs-ranking/fc-barcelona,13,1833
+372,US Créteil-Lusitanos,No disponible,No disponible,No disponible
+373,Heracles Almelo,https://footballdatabase.com/clubs-ranking/heracles,586,1413
+374,FC Penafiel,https://footballdatabase.com/clubs-ranking/penafiel,1467,1298
+375,ESTAC Troyes,https://footballdatabase.com/clubs-ranking/troyes,623,1406
+376,Vitória de Setúbal,https://footballdatabase.com/clubs-ranking/vitoria-setubal,816,1371
+377,Angers SCO,https://footballdatabase.com/clubs-ranking/angers,341,1479
+378,La Berrichonne de Châteauroux,No disponible,No disponible,No disponible
+379,Leyton Orient,No disponible,No disponible,No disponible
+380,1. FC Union Berlin,https://footballdatabase.com/clubs-ranking/1-fc-union-berlin,51,1693
+381,Incheon United FC,https://footballdatabase.com/clubs-ranking/incheon-united,909,1358
+382,Leones Negros de la UdeG,https://footballdatabase.com/clubs-ranking/leones-negros-udeg,820,1371
+383,GFC Ajaccio,https://footballdatabase.com/clubs-ranking/gfc-ajaccio,492,1438
+384,CE Sabadell FC,No disponible,No disponible,No disponible
+385,Audax Italiano,https://footballdatabase.com/clubs-ranking/audax-italiano,479,1440
+386,Fleetwood Town,No disponible,No disponible,No disponible
+387,Al Faisaly,https://footballdatabase.com/clubs-ranking/al-faisaly-sc-amman,1085,1336
+388,Jeonnam Dragons,https://footballdatabase.com/clubs-ranking/chunnam-dragons,1555,1291
+389,Gyeongnam FC,https://footballdatabase.com/clubs-ranking/gyeongnam-fc,755,1382
+390,Chicago Fire Football Club,https://footballdatabase.com/clubs-ranking/chicago-fire,1532,1292
+391,Al Raed,https://footballdatabase.com/clubs-ranking/al-raed,1097,1335
+392,Tours FC,No disponible,No disponible,No disponible
+393,Lierse SK,https://footballdatabase.com/clubs-ranking/lierse,1586,1288
+394,SK Brann,https://footballdatabase.com/clubs-ranking/brann,1150,1329
+395,Blackpool,https://footballdatabase.com/clubs-ranking/blackpool,378,1469
+396,Fortaleza CEIF,No disponible,No disponible,No disponible
+397,FC Midtjylland,https://footballdatabase.com/clubs-ranking/fc-midtjylland,153,1571
+398,Kalmar FF,https://footballdatabase.com/clubs-ranking/kalmar-ff,908,1358
+399,Amkar Perm,https://footballdatabase.com/clubs-ranking/amkar-perm,604,1411
+400,Arsenal Tula,https://footballdatabase.com/clubs-ranking/fc-arsenal-tula,773,1378
+401,Rotherham United,https://footballdatabase.com/clubs-ranking/atenas,1812,1269
+402,Barnsley,https://footballdatabase.com/clubs-scores/okzhetpes-kokshetau/4,No disponible,No disponible
+403,Club Olimpo,https://footballdatabase.com/clubs-ranking/olimpo,1001,1347
+404,Royal Excel Mouscron,https://footballdatabase.com/clubs-ranking/royal-excel-mouscron-peruwelz,1166,1328
+405,AD Alcorcón,https://footballdatabase.com/ranking/spain/1,No disponible,No disponible
+406,Adelaide United,https://footballdatabase.com/clubs-ranking/adelaide-united,990,1348
+407,Frosinone,https://footballdatabase.com/clubs-ranking/frosinone,641,1404
+408,Aberdeen,https://footballdatabase.com/clubs-ranking/aberdeen,665,1399
+409,Quilmes Atlético Club,https://footballdatabase.com/clubs-ranking/quilmes,901,1358
+410,Odds BK,https://footballdatabase.com/clubs-ranking/odds-ballklubb,934,1354
+411,FC Thun,https://footballdatabase.com/clubs-ranking/thun,852,1366
+412,Coventry City,No disponible,No disponible,No disponible
+413,CD Huachipato,https://footballdatabase.com/clubs-scores/huachipato/4,No disponible,No disponible
+414,Lechia Gdańsk,https://footballdatabase.com/clubs-ranking/lechia-gdansk,541,1425
+415,Al Orobah,https://footballdatabase.com/clubs-ranking/al-oruba-club,1759,1273
+416,SV Sandhausen,No disponible,No disponible,No disponible
+417,FK Austria Wien,https://footballdatabase.com/clubs-ranking/austria-wien,696,1392
+418,Rionegro Águilas,No disponible,No disponible,No disponible
+419,Crotone,https://footballdatabase.com/clubs-ranking/crotone,572,1416
+420,KV Mechelen,https://footballdatabase.com/clubs-ranking/kv-mechelen,426,1455
+421,FK Haugesund,https://footballdatabase.com/clubs-ranking/fk-haugesund,952,1352
+422,Latina,https://footballdatabase.com/ranking/south-america/1,No disponible,No disponible
+423,Karlsruher SC,No disponible,No disponible,No disponible
+424,Sandnes Ulf,No disponible,No disponible,No disponible
+425,KV Kortrijk,https://footballdatabase.com/clubs-ranking/kortrijk,779,1376
+426,Jagiellonia Białystok,https://footballdatabase.com/clubs-ranking/jagiellonia-bialystok,919,1356
+427,Patriotas Boyacá FC,https://footballdatabase.com/clubs-ranking/patriotas-boyaca,1177,1327
+428,Alianza Petrolera,https://footballdatabase.com/clubs-ranking/alianza-petrolera,921,1356
+429,Club Deportes Tolima,https://footballdatabase.com/clubs-ranking/tolima,152,1571
+430,CD Universidad de Concepción,https://footballdatabase.com/league-scores/chile-campeonato-nacional-2018/1,No disponible,No disponible
+431,Notts County,No disponible,No disponible,No disponible
+432,Varese,No disponible,No disponible,No disponible
+433,Motherwell,https://footballdatabase.com/clubs-ranking/motherwell,988,1349
+434,FC Vestsjælland,https://footballdatabase.com/clubs-ranking/vestsjaelland,1615,1286
+435,BK Häcken,https://footballdatabase.com/clubs-ranking/bk-hacken,496,1437
+436,Deportes Iquique,No disponible,No disponible,No disponible
+437,SønderjyskE,No disponible,No disponible,No disponible
+438,FC Mordovia Saransk,No disponible,No disponible,No disponible
+439,Pohang Steelers,No disponible,No disponible,No disponible
+440,CD Antofagasta,No disponible,No disponible,No disponible
+441,Piast Gliwice,No disponible,No disponible,No disponible
+442,Seongnam FC,No disponible,No disponible,No disponible
+443,Envigado FC,No disponible,No disponible,No disponible
+444,La Equidad,No disponible,No disponible,No disponible
+445,Cittadella,No disponible,No disponible,No disponible
+446,Al Taawoun,No disponible,No disponible,No disponible
+447,Waasland-Beveren,No disponible,No disponible,No disponible
+448,FC Dordrecht,No disponible,No disponible,No disponible
+449,Clermont Foot 63,No disponible,No disponible,No disponible
+450,UE Llagostera,No disponible,No disponible,No disponible
+451,Busan IPark,No disponible,No disponible,No disponible
+452,SK Sturm Graz,No disponible,No disponible,No disponible
+453,Avellino,No disponible,No disponible,No disponible
+454,Go Ahead Eagles,No disponible,No disponible,No disponible
+455,SC Cambuur,No disponible,No disponible,No disponible
+456,Boyacá Chicó FC,No disponible,No disponible,No disponible
+457,Perth Glory,No disponible,No disponible,No disponible
+458,Korona Kielce,No disponible,No disponible,No disponible
+459,St. Mirren,No disponible,No disponible,No disponible
+460,FK Bodø/Glimt,No disponible,No disponible,No disponible
+461,Djurgårdens IF,No disponible,No disponible,No disponible
+462,Lillestrøm SK,No disponible,No disponible,No disponible
+463,Åtvidabergs FF,No disponible,No disponible,No disponible
+464,VfR Aalen,No disponible,No disponible,No disponible
+465,FC Aarau,No disponible,No disponible,No disponible
+466,Excelsior,No disponible,No disponible,No disponible
+467,Mjällby AIF,No disponible,No disponible,No disponible
+468,Sarpsborg 08 FF,No disponible,No disponible,No disponible
+469,Górnik Zabrze,No disponible,No disponible,No disponible
+470,SV Ried,No disponible,No disponible,No disponible
+471,Sheffield United,No disponible,No disponible,No disponible
+472,SV Darmstadt 98,No disponible,No disponible,No disponible
+473,SS Virtus Lanciano,No disponible,No disponible,No disponible
+474,Wellington Phoenix,No disponible,No disponible,No disponible
+475,Cracovia,No disponible,No disponible,No disponible
+476,Sogndal Fotball,No disponible,No disponible,No disponible
+477,KSV Cercle Brugge,No disponible,No disponible,No disponible
+478,Bristol City,No disponible,No disponible,No disponible
+479,Partick Thistle FC,No disponible,No disponible,No disponible
+480,Sangju Sangmu FC,No disponible,No disponible,No disponible
+481,FC Pro Vercelli 1892,No disponible,No disponible,No disponible
+482,IK Start,No disponible,No disponible,No disponible
+483,Hobro IK,No disponible,No disponible,No disponible
+484,Racing Santander,No disponible,No disponible,No disponible
+485,CD Mirandés,No disponible,No disponible,No disponible
+486,1. FC Heidenheim 1846,No disponible,No disponible,No disponible
+487,Deportivo San Marcos de Arica,No disponible,No disponible,No disponible
+488,Defensa y Justicia,No disponible,No disponible,No disponible
+489,Stabæk Fotball,No disponible,No disponible,No disponible
+490,Shrewsbury Town,No disponible,No disponible,No disponible
+491,Central Coast Mariners,No disponible,No disponible,No disponible
+492,St. Johnstone FC,No disponible,No disponible,No disponible
+493,Milton Keynes Dons,No disponible,No disponible,No disponible
+494,Walsall,No disponible,No disponible,No disponible
+495,Chamois Niortais Football Club,No disponible,No disponible,No disponible
+496,St. Patrick's Athletic,No disponible,No disponible,No disponible
+497,FC Erzgebirge Aue,No disponible,No disponible,No disponible
+498,Górnik Łęczna,No disponible,No disponible,No disponible
+499,Preston North End,No disponible,No disponible,No disponible
+500,US Orléans Loiret Football,No disponible,No disponible,No disponible
+501,Dundee FC,https://footballdatabase.com/clubs-ranking/dundee-fc,2626,1198
+502,Peterborough United,No disponible,No disponible,No disponible
+503,Podbeskidzie Bielsko-Biała,No disponible,No disponible,No disponible
+504,Chesterfield,No disponible,No disponible,No disponible
+505,CD Leganés,No disponible,No disponible,No disponible
+506,Crewe Alexandra,https://footballdatabase.com/ranking/world/15,No disponible,No disponible
+507,Albacete BP,No disponible,No disponible,No disponible
+508,Gefle IF,https://footballdatabase.com/clubs-ranking/gefle,1421,1302
+509,GKS Bełchatów,No disponible,No disponible,No disponible
+510,Vicenza,No disponible,No disponible,No disponible
+511,Newcastle Jets,https://footballdatabase.com/clubs-ranking/newcastle-jets,1810,1269
+512,IFK Norrköping,https://footballdatabase.com/clubs-ranking/norrkoping,338,1479
+513,Ross County FC,https://footballdatabase.com/clubs-ranking/ross-county,1374,1306
+514,Carlisle United,No disponible,No disponible,No disponible
+515,Doncaster Rovers,No disponible,No disponible,No disponible
+516,Portsmouth,https://footballdatabase.com/clubs-ranking/portsmouth,528,1428
+517,Plymouth Argyle,No disponible,No disponible,No disponible
+518,Rochdale,No disponible,No disponible,No disponible
+519,Ruch Chorzów,https://footballdatabase.com/clubs-ranking/ruch-chorzow,1536,1292
+520,Bradford City,https://footballdatabase.com/clubs-ranking/efym,2425,1225
+521,Hartlepool United,No disponible,No disponible,No disponible
+522,RZ Pellets Wolfsberger AC,No disponible,No disponible,No disponible
+523,Yeovil Town,No disponible,No disponible,No disponible
+524,Crawley Town,No disponible,No disponible,No disponible
+525,SV Grödig,https://footballdatabase.com/league-scores/austria-bundesliga-2014-15/1,No disponible,No disponible
+526,Oldham Athletic,No disponible,No disponible,No disponible
+527,Hamilton Academical FC,https://footballdatabase.com/clubs-ranking/hamilton-academicals-fc,2322,1235
+528,Colchester United,https://footballdatabase.com/,No disponible,No disponible
+529,Cheltenham Town,No disponible,No disponible,No disponible
+530,Swindon Town,No disponible,No disponible,No disponible
+531,FC Flyeralarm Admira,No disponible,No disponible,No disponible
+532,Al Shoulla,No disponible,No disponible,No disponible
+533,Luton Town,https://footballdatabase.com/clubs-ranking/dundalk,358,1475
+534,Falkenbergs FF,https://footballdatabase.com/clubs-ranking/falkenbergs-ff,2591,1206
+535,Oxford United,No disponible,No disponible,No disponible
+536,Scunthorpe United,No disponible,No disponible,No disponible
+537,Gillingham,No disponible,No disponible,No disponible
+538,Northampton Town,No disponible,No disponible,No disponible
+539,Port Vale,No disponible,No disponible,No disponible
+540,Örebro SK,https://footballdatabase.com/scores/2009-08-03,No disponible,No disponible
+541,SC Rheindorf Altach,https://footballdatabase.com/clubs-ranking/altach-sc-rheindorf,1738,1275
+542,Dagenham and Redbridge,No disponible,No disponible,No disponible
+543,AFC Wimbledon,No disponible,No disponible,No disponible
+544,Bury,https://footballdatabase.com/league-scores-tables/el-salvador-primera-division-apertura-2010,No disponible,No disponible
+545,Halmstads BK,https://footballdatabase.com/clubs-ranking/halmstads-bk,1622,1286
+546,Dundalk FC,https://footballdatabase.com/clubs-ranking/dundalk,358,1475
+547,Najran SC,https://footballdatabase.com/clubs-ranking/najran-sc,1943,1259
+548,SC Magna Wiener Neustadt,No disponible,No disponible,No disponible
+549,IF Brommapojkarna,http://footballdatabase.com/league-scores/sweden-allsvenskan-2009/1,No disponible,No disponible
+550,Atlético Huila,https://footballdatabase.com/clubs-ranking/atletico-huila,1658,1283
+551,AC Barnechea,https://footballdatabase.com/clubs-list-letter/B,No disponible,No disponible
+552,Hajer,https://footballdatabase.com/clubs-ranking/hajer,2667,1188
+553,Cambridge United,No disponible,No disponible,No disponible
+554,FC Vaduz,https://footballdatabase.com/clubs-ranking/fc-vaduz,1568,1290
+555,Morecambe,No disponible,No disponible,No disponible
+556,Silkeborg IF,https://footballdatabase.com/clubs-ranking/silkeborg,1565,1290
+557,Southend United,https://footballdatabase.com/clubs-ranking/south-end,2737,1137
+558,York City,https://footballdatabase.com/clubs-ranking/new-york-city-fc,445,1450
+559,Burton Albion,No disponible,No disponible,No disponible
+560,Cork City,https://footballdatabase.com/clubs-ranking/cork-city,706,1391
+561,Shamrock Rovers,https://footballdatabase.com/clubs-ranking/shamrock-rovers,129,1591
+562,Tranmere Rovers,No disponible,No disponible,No disponible
+563,Derry City,https://footballdatabase.com/clubs-ranking/derry-city,583,1414
+564,Exeter City,No disponible,No disponible,No disponible
+565,Mansfield Town,No disponible,No disponible,No disponible
+566,Newport County,https://footballdatabase.com/ranking/wales/1,No disponible,No disponible
+567,Wycombe Wanderers,No disponible,No disponible,No disponible
+568,Stevenage,No disponible,No disponible,No disponible
+569,Al Khaleej,https://footballdatabase.com/clubs-ranking/al-khaleej-saihat,1397,1303
+570,Sligo Rovers,https://footballdatabase.com/clubs-ranking/sligo-rovers,701,1392
+571,Limerick FC,https://footballdatabase.com/clubs-ranking/limerick,2060,1251
+572,Accrington Stanley,https://footballdatabase.com/,No disponible,No disponible
+573,Bohemian FC,https://footballdatabase.com/clubs-ranking/bohemian-fc,471,1441
+574,Drogheda United,https://footballdatabase.com/clubs-ranking/drogheda-united,1824,1268
+575,Bray Wanderers,https://footballdatabase.com/clubs-ranking/bray-wanderers,2299,1237
+576,UCD AFC,http://www.footballdatabase.com/sitemap.xml,No disponible,No disponible
+577,Athlone Town,https://footballdatabase.com/clubs-ranking/athlone-town,1858,1266
+578,New York City FC,https://footballdatabase.com/clubs-ranking/new-york-city-fc,445,1450
+579,Orlando City Soccer Club,https://footballdatabase.com/clubs-ranking/orlando-city,955,1352
+580,Antalyaspor,https://footballdatabase.com/clubs-ranking/mp-antalyaspor,913,1357
+581,Sint-Truidense VV,No disponible,No disponible,No disponible
+582,CD Tondela,https://footballdatabase.com/clubs-ranking/tondela,932,1355
+583,FC Anzhi Makhachkala,https://footballdatabase.com/clubs-ranking/anzhi-makhachkala,1509,1294
+584,União da Madeira,https://footballdatabase.com/ranking/portugal/1?fb_comment_id=566353253446048_1023419294406106,No disponible,No disponible
+585,Osmanlıspor,https://footballdatabase.com/clubs-ranking/osmanlispor-ankaraspor,804,1373
+586,Yukatel Kayserispor,No disponible,No disponible,No disponible
+587,Krylya Sovetov Samara,https://footballdatabase.com/clubs-ranking/krylya-sovetov-samara,540,1425
+588,Gimnàstic de Tarragona,No disponible,No disponible,No disponible
+589,Club Atlético Sarmiento,https://footballdatabase.com/clubs-ranking/club-atletico-sarmiento,827,1370
+590,Real Oviedo,https://footballdatabase.com/clubs-ranking/efym,2425,1225
+591,Club Atlético Huracán,No disponible,No disponible,No disponible
+592,DSC Arminia Bielefeld,https://footballdatabase.com/clubs-ranking/dsc-arminia-bielefeld,123,1597
+593,San Luis de Quillota,https://footballdatabase.com/clubs-ranking/san-luis-de-quillota,1394,1304
+594,Novara Calcio,No disponible,No disponible,No disponible
+595,Como,https://footballdatabase.com/clubs-ranking/boca-juniors,66,1668
+596,Athletic Club de Bilbao B,https://footballdatabase.com/clubs-ranking/real-sociedad-san-sebastian,45,1709
+597,Fluminense,https://footballdatabase.com/clubs-ranking/fluminense-rio-de-janeiro,74,1643
+598,Oud-Heverlee Leuven,https://footballdatabase.com/clubs-ranking/oud-heverlee,752,1383
+599,Club Atlético Colón,https://footballdatabase.com/clubs-ranking/colon-c-3,2394,1229
+600,Paris FC,https://footballdatabase.com/clubs-ranking/paris-saint-germain,8,1907
+601,Hammarby IF,https://footballdatabase.com/clubs-ranking/hammarby,321,1486
+602,SD Huesca,https://footballdatabase.com/clubs-ranking/sd-huesca,181,1553
+603,US Salernitana 1919,https://footballdatabase.com/clubs-ranking/us-salernitana-1919,580,1415
+604,N.E.C. Nijmegen,,No disponible,No disponible
+605,Roda JC Kerkrade,https://footballdatabase.com/clubs-ranking/roda-jc-kerkrade,993,1348
+606,Unión de Santa Fe,https://footballdatabase.com/clubs-ranking/union-santa-fe,266,1512
+607,Dorados de Sinaloa,https://footballdatabase.com/clubs-ranking/dorados-sinaloa,1044,1342
+608,Red Star FC,,No disponible,No disponible
+609,Nueva Chicago,https://footballdatabase.com/clubs-ranking/ca-nueva-chicago,456,1447
+610,MSV Duisburg,No disponible,No disponible,No disponible
+611,Tromsø IL,https://footballdatabase.com/clubs-ranking/tromsoe-il,1297,1314
+612,Daejeon Citizen,https://footballdatabase.com/clubs-ranking/daejeon-citizen,2418,1226
+613,Jaguares de Córdoba Fútbol Club,https://footballdatabase.com/scores/2019-04-07,No disponible,No disponible
+614,Club Atlético Aldosivi,https://footballdatabase.com/clubs-scores/club-atletico-aldosivi/1,No disponible,No disponible
+615,GwangJu FC,https://footballdatabase.com/clubs-ranking/gwangju-fc,1179,1326
+616,Argentinos Juniors,https://footballdatabase.com/clubs-ranking/argentinos-juniors,210,1539
+617,Aarhus GF,https://footballdatabase.com/clubs-ranking/agf,559,1419
+618,San Martín de San Juan,https://footballdatabase.com/clubs-ranking/san-martin-san-juan,384,1466
+619,De Graafschap,https://footballdatabase.com/clubs-ranking/de-graafschap,1064,1339
+620,Cúcuta Deportivo,https://footballdatabase.com/clubs-ranking/cucuta-deportivo,1266,1317
+621,Ascoli,https://footballdatabase.com/league-scores-tables/bolivia-primera-division-clausura-2017,No disponible,No disponible
+622,Zagłębie Lubin,https://footballdatabase.com/clubs-ranking/zaglebie-lubin,1084,1336
+623,Viborg FF,https://footballdatabase.com/clubs-ranking/viborg,1335,1309
+624,Bristol Rovers,No disponible,No disponible,No disponible
+625,Cortuluá,https://footballdatabase.com/clubs-ranking/cortulua,1075,1338
+626,Crucero del Norte,https://footballdatabase.com/clubs-ranking/asociacion-mutual-crucero-del-norte,1636,1285
+627,Club Atlético Temperley,https://footballdatabase.com/clubs-ranking/club-atletico-temperley,666,1399
+628,Bruk-Bet Termalica Nieciecza,https://footballdatabase.com/clubs-ranking/termalica-bruk-bet-nieciecza,2071,1251
+629,Football Bourg En Bresse Peronnas 01,No disponible,No disponible,No disponible
+630,Heart of Midlothian,https://footballdatabase.com/clubs-ranking/heart-of-midlothian,656,1401
+631,Mjøndalen IF,https://footballdatabase.com/clubs-ranking/mjoendalen,2200,1244
+632,FC Lugano,https://footballdatabase.com/clubs-ranking/lugano,501,1436
+633,Barnet,No disponible,No disponible,No disponible
+634,GIF Sundsvall,https://footballdatabase.com/clubs-ranking/gif-sundsvall,1454,1299
+635,SV Mattersburg,https://footballdatabase.com/league-scores/austria-bundesliga-2012-13/3,No disponible,No disponible
+636,Sandefjord Fotball,https://footballdatabase.com/clubs-ranking/fk-haugesund,952,1352
+637,Al Qadisiyah,https://footballdatabase.com/clubs-ranking/al-quadisiya,1406,1303
+638,Al Wehda,No disponible,No disponible,No disponible
+639,Longford Town,https://footballdatabase.com/clubs-ranking/longford-town,2722,1161
+640,Galway United,https://footballdatabase.com/clubs-ranking/galway-united,1916,1262
+641,Aytemiz Alanyaspor,No disponible,No disponible,No disponible
+642,Club Necaxa,https://footballdatabase.com/clubs-ranking/necaxa-rayos,601,1411
+643,Club Athletico Paranaense,https://footballdatabase.com/clubs-ranking/atletico-pr,97,1617
+644,Botafogo,https://footballdatabase.com/clubs-ranking/botafogo-rj,772,1379
+645,Associação Chapecoense de Futebol,No disponible,No disponible,No disponible
+646,Coritiba,https://footballdatabase.com/clubs-ranking/coritiba,507,1434
+647,Internacional,https://footballdatabase.com/clubs-ranking/internacional,125,1596
+648,Goiás,https://footballdatabase.com/clubs-ranking/goias,353,1475
+649,Ponte Preta,https://footballdatabase.com/clubs-ranking/ponte-preta,439,1451
+650,Sanfrecce Hiroshima,https://footballdatabase.com/clubs-ranking/sanfrecce-hiroshima,476,1440
+651,Grêmio,https://footballdatabase.com/clubs-ranking/gremio,120,1599
+652,América Futebol Clube,https://footballdatabase.com/ranking/south-america/1,No disponible,No disponible
+653,Palmeiras,https://footballdatabase.com/clubs-ranking/palmeiras,35,1744
+654,Figueirense,https://footballdatabase.com/clubs-ranking/figueirense,508,1434
+655,Santos,https://footballdatabase.com/clubs-ranking/santos-laguna,225,1532
+656,Sport Club do Recife,https://footballdatabase.com/clubs-ranking/sport-recife,278,1507
+657,Criciúma,https://footballdatabase.com/clubs-ranking/criciuma,630,1405
+658,Júbilo Iwata,https://footballdatabase.com/clubs-ranking/jubilo-iwata,1009,1346
+659,Cruzeiro,https://footballdatabase.com/clubs-ranking/cruzeiro,302,1495
+660,São Paulo,https://footballdatabase.com/clubs-ranking/sao-paulo,87,1625
+661,Vitória,https://footballdatabase.com/clubs-ranking/vitoria-salvador,470,1442
+662,Joinville,https://footballdatabase.com/clubs-ranking/joinville-esporte-clube,636,1404
+663,Santa Cruz,https://footballdatabase.com/clubs-ranking/real-santa-cruz-bolivia,1705,1277
+664,FC Tokyo,https://footballdatabase.com/clubs-ranking/fc-tokyo,542,1424
+665,CD Feirense,https://footballdatabase.com/clubs-ranking/feirense,1513,1294
+666,Kawasaki Frontale,https://footballdatabase.com/clubs-ranking/kawasaki-frontale,52,1693
+667,GD Chaves,No disponible,No disponible,No disponible
+668,Urawa Red Diamonds,https://footballdatabase.com/clubs-ranking/urawa-red-diamonds,423,1456
+669,Gamba Osaka,https://footballdatabase.com/clubs-ranking/gamba-osaka,655,1401
+670,FC Tom Tomsk,https://footballdatabase.com/clubs-ranking/tom-tomsk,2039,1252
+671,Kashiwa Reysol,https://footballdatabase.com/clubs-ranking/kashiwa-reysol,812,1372
+672,Clube Atlético Mineiro,https://footballdatabase.com/clubs-ranking/atletico-mineiro,17,1806
+673,CF Reus Deportiu,No disponible,No disponible,No disponible
+674,Yokohama F. Marinos,https://footballdatabase.com/clubs-ranking/yokohama-fa-marinos,204,1542
+675,RC Strasbourg Alsace,https://footballdatabase.com/clubs-ranking/rc-strasbourg,102,1614
+676,Club Atlético Talleres,https://footballdatabase.com/ranking/argentina/1,No disponible,No disponible
+677,HJK Helsinki,https://footballdatabase.com/clubs-ranking/hjk-helsinki,223,1534
+678,Sagan Tosu,https://footballdatabase.com/clubs-ranking/sagan-tosu,734,1386
+679,Vissel Kobe,https://footballdatabase.com/clubs-ranking/vissel-kobe,401,1460
+680,Adanaspor,https://footballdatabase.com/clubs-ranking/adanaspor-fk,1578,1289
+681,Club de Regatas Vasco da Gama,No disponible,No disponible,No disponible
+682,Ventforet Kofu,https://footballdatabase.com/clubs-ranking/ventforet-kofu,1395,1303
+683,Pisa,https://footballdatabase.com/clubs-index,No disponible,No disponible
+684,Albirex Niigata,https://footballdatabase.com/clubs-ranking/albirex-niigata,1471,1298
+685,Patronato,https://footballdatabase.com/clubs-ranking/patronato-de-parana,477,1440
+686,Cádiz CF,https://footballdatabase.com/clubs-ranking/cadiz-club-de-futbol,287,1502
+687,UCAM Murcia CF,No disponible,No disponible,No disponible
+688,Avaí FC,https://footballdatabase.com/clubs-ranking/avai-fc,951,1352
+689,FC Lausanne-Sport,https://footballdatabase.com/clubs-ranking/lausanne-sport,1775,1272
+690,FC Orenburg,https://footballdatabase.com/clubs-ranking/gazovik-orenburg,708,1390
+691,Atlético Tucumán,https://footballdatabase.com/clubs-ranking/atletico-tucuman,610,1409
+692,Club Deportes Temuco,https://footballdatabase.com/clubs-ranking/deportes-temuco,835,1369
+693,FC Würzburger Kickers,No disponible,No disponible,No disponible
+694,Ettifaq FC,https://footballdatabase.com/clubs-ranking/al-ettifaq,912,1357
+695,Nagoya Grampus,https://footballdatabase.com/clubs-ranking/nagoya-grampus-eight,352,1476
+696,CD Everton de Viña del Mar,https://footballdatabase.com/clubs-ranking/everton-vina-del-mar,829,1370
+697,Sevilla Atlético,https://footballdatabase.com/league-scores/spain-liga-bbva-2009-10/3,No disponible,No disponible
+698,Kashima Antlers,https://footballdatabase.com/clubs-ranking/kashima-antlers,219,1535
+699,KAS Eupen,https://footballdatabase.com/clubs-ranking/as-eupen,1180,1326
+700,Lyngby BK,https://footballdatabase.com/clubs-ranking/lyngby,2221,1242
+701,Benevento,https://footballdatabase.com/clubs-ranking/benevento,613,1408
+702,Shonan Bellmare,https://footballdatabase.com/clubs-ranking/shonan-bellmare,1367,1306
+703,SPAL,https://footballdatabase.com/clubs-ranking/spal-2013,1095,1336
+704,SG Dynamo Dresden,No disponible,No disponible,No disponible
+705,Atlético Bucaramanga,https://footballdatabase.com/clubs-ranking/club-atletico-bucaramanga,638,1404
+706,Omiya Ardija,https://footballdatabase.com/clubs-ranking/omiya-ardija,1110,1334
+707,Sparta Rotterdam,https://footballdatabase.com/clubs-ranking/sparta-rotterdam,746,1384
+708,Vegalta Sendai,https://footballdatabase.com/clubs-ranking/vegalta-sendai,1592,1288
+709,Avispa Fukuoka,https://footballdatabase.com/clubs-ranking/avispa-fukuoka,1393,1304
+710,Wisła Płock,https://footballdatabase.com/clubs-ranking/wisla-plock-sa,981,1349
+711,AC Horsens,https://footballdatabase.com/clubs-ranking/horsens,1994,1255
+712,Jönköpings Södra IF,No disponible,No disponible,No disponible
+713,Suwon FC,https://footballdatabase.com/clubs-ranking/suwon-city,872,1362
+714,spusu SKN St. Pölten,No disponible,No disponible,No disponible
+715,Amiens SC,https://footballdatabase.com/clubs-ranking/amiens-sc,537,1426
+716,Arka Gdynia,https://footballdatabase.com/clubs-ranking/arka-gdynia,1485,1296
+717,Östersunds FK,No disponible,No disponible,No disponible
+718,Grimsby Town,No disponible,No disponible,No disponible
+719,Al Batin,https://footballdatabase.com/clubs-ranking/al-batin,1531,1292
+720,Finn Harps,https://footballdatabase.com/clubs-ranking/finn-harps,1560,1290
+721,Wexford Youths,https://footballdatabase.com/clubs-ranking/wexford-youths,2270,1240
+722,AC Sparta Praha,https://footballdatabase.com/clubs-ranking/sparta-prague,76,1642
+723,Atlanta United,https://footballdatabase.com/clubs-ranking/atlanta-united,637,1404
+724,Royal Antwerp FC,https://footballdatabase.com/clubs-ranking/royal-antwerp,200,1543
+725,Göztepe SK,https://footballdatabase.com/clubs-ranking/goztepe-as,824,1371
+726,Cerezo Osaka,https://footballdatabase.com/clubs-ranking/cerezo-osaka,463,1445
+727,AEK Athens,https://footballdatabase.com/clubs-ranking/aek,193,1547
+728,Desportivo das Aves,https://footballdatabase.com/scores/2020-01-18,No disponible,No disponible
+729,US Cremonese,No disponible,No disponible,No disponible
+730,Venezia FC,https://footballdatabase.com/clubs-ranking/venezia-fc,349,1476
+731,Portimonense SC,https://footballdatabase.com/clubs-ranking/portimonense,573,1416
+732,Lobos BUAP,https://footballdatabase.com/clubs-ranking/lobos-de-la-buap,764,1381
+733,Minnesota United FC,https://footballdatabase.com/clubs-ranking/minnesota-united,821,1371
+734,Atlético Clube Goianiense,https://footballdatabase.com/clubs-ranking/atletico-goianiense,89,1621
+735,Yeni Malatyaspor,https://footballdatabase.com/clubs-ranking/yeni-malatyaspor,1283,1315
+736,FC Tosno,https://footballdatabase.com/clubs-ranking/fk-tosno,1271,1316
+737,Shimizu S-Pulse,https://footballdatabase.com/clubs-ranking/shimizu-s-pulse,1168,1328
+738,Al Fayha,No disponible,No disponible,No disponible
+739,Chacarita Juniors,https://footballdatabase.com/clubs-ranking/chacarita-juniors,1065,1339
+740,Curicó Unido,https://footballdatabase.com/clubs-ranking/curico-unido,774,1378
+741,US Quevilly Rouen Métropole,No disponible,No disponible,No disponible
+742,Cultural Leonesa,No disponible,No disponible,No disponible
+743,Gangwon FC,https://footballdatabase.com/clubs-ranking/gangwon-fc,873,1362
+744,AFC Eskilstuna,https://footballdatabase.com/clubs-ranking/afc-eskilstuna,2292,1237
+745,América de Cali,https://footballdatabase.com/clubs-ranking/america-de-cali,407,1459
+746,VVV-Venlo,https://footballdatabase.com/clubs-ranking/vvv,1644,1284
+747,Daegu FC,https://footballdatabase.com/clubs-ranking/daegu-fc,484,1439
+748,Hibernian,https://footballdatabase.com/clubs-ranking/hibernian,662,1400
+749,SSV Jahn Regensburg,https://footballdatabase.com/ranking/world/25,No disponible,No disponible
+750,Sandecja Nowy Sącz,https://footballdatabase.com/clubs-ranking/sandecja-nowy-sacz,1731,1275
+751,Holstein Kiel,No disponible,No disponible,No disponible
+752,VfL Osnabrück,No disponible,No disponible,No disponible
+753,Lorca FC,No disponible,No disponible,No disponible
+754,SpVgg Unterhaching,No disponible,No disponible,No disponible
+755,F.C. Hansa Rostock,No disponible,No disponible,No disponible
+756,Foggia,No disponible,No disponible,No disponible
+757,Chemnitzer FC,No disponible,No disponible,No disponible
+758,Hokkaido Consadole Sapporo,https://footballdatabase.com/clubs-ranking/consadole-sapporo,760,1381
+759,VfL Sportfreunde Lotte,No disponible,No disponible,No disponible
+760,1. FC Magdeburg,https://footballdatabase.com/index.php?pageplayer&Id1210&btrue&pnCristiano_Ronaldo_dos_Santos_Aveiro,No disponible,No disponible
+761,SKA Khabarovsk,https://footballdatabase.com/clubs-ranking/ska-khabarovsk,1834,1268
+762,LASK Linz,https://footballdatabase.com/clubs-ranking/lask-linz,303,1495
+763,Ohod Club,https://footballdatabase.com/clubs-ranking/ohod,2436,1224
+764,SV Wehen Wiesbaden,No disponible,No disponible,No disponible
+765,SC Preußen Münster,No disponible,No disponible,No disponible
+766,SG Sonnenhof Großaspach,No disponible,No disponible,No disponible
+767,SC Fortuna Köln,https://footballdatabase.com/league-scores/germany-bundesliga-2019-20/5,No disponible,No disponible
+768,Hallescher FC,No disponible,No disponible,No disponible
+769,IK Sirius,https://footballdatabase.com/clubs-ranking/sirius,1147,1330
+770,Lincoln City,https://footballdatabase.com/ranking/world/43,No disponible,No disponible
+771,FSV Zwickau,No disponible,No disponible,No disponible
+772,FC Rot-Weiß Erfurt,No disponible,No disponible,No disponible
+773,SV Meppen,No disponible,No disponible,No disponible
+774,SV Werder Bremen II,https://footballdatabase.com/scores/2013-01-27,No disponible,No disponible
+775,Tigres FC,https://footballdatabase.com/clubs-ranking/tigres-uanl,110,1607
+776,Kristiansund BK,https://footballdatabase.com/clubs-ranking/kristiansund-bk,753,1382
+777,FC Carl Zeiss Jena,No disponible,No disponible,No disponible
+778,Forest Green Rovers,https://footballdatabase.com/scores/2012-10-13,No disponible,No disponible
+779,FC Helsingør,https://footballdatabase.com/clubs-ranking/fc-helsingoer,2336,1234
+780,Guangzhou FC,https://footballdatabase.com/clubs-ranking/guangzhou-fc,295,1498
+781,Dalian Professional Football Club,https://footballdatabase.com/clubs-ranking/dalian-pro,1779,1271
+782,Shanghai Port FC,https://footballdatabase.com/clubs-ranking/shanghai-port-fc,209,1539
+783,Beijing Guoan FC,https://footballdatabase.com/clubs-ranking/beijing-guoan,468,1442
+784,Los Angeles FC,https://footballdatabase.com/clubs-ranking/los-angeles-fc,525,1429
+785,Tianjin Quanjian FC,https://footballdatabase.com/clubs-ranking/tianjin-quanjian,1187,1326
+786,Hebei FC,https://footballdatabase.com/clubs-ranking/hebei-cffc,1236,1321
+787,Beijing Renhe FC,https://footballdatabase.com/clubs-ranking/guizhou-renhe,2300,1237
+788,Guangzhou City,https://footballdatabase.com/clubs-ranking/guangzhou-city-fc,1299,1314
+789,Jiangsu FC,https://footballdatabase.com/clubs-ranking/jiangsu-sainty,332,1481
+790,Dynamo Kyiv,https://footballdatabase.com/clubs-ranking/dynamo-kyiv,65,1669
+791,Shandong Taishan,https://footballdatabase.com/clubs-ranking/shandong-taishan,221,1534
+792,Shanghai Shenhua FC,https://footballdatabase.com/clubs-ranking/shanghai-shenhua,789,1376
+793,Guizhou Zhicheng FC,https://footballdatabase.com/clubs-ranking/guizhou-hengfeng-zhicheng,1703,1278
+794,Changchun Yatai FC,https://footballdatabase.com/clubs-ranking/changchun-yatai,813,1372
+795,FC Viktoria Plzeň,https://footballdatabase.com/clubs-ranking/viktoria-plzen,81,1635
+796,MKE Ankaragücü,No disponible,No disponible,No disponible
+797,Chongqing Liangjiang Athletic,https://footballdatabase.com/clubs-ranking/chongqing-liangjiang-athletic,1524,1293
+798,Bahia,https://footballdatabase.com/clubs-ranking/bahia,190,1548
+799,Paraná,https://footballdatabase.com/clubs-ranking/patronato-de-parana,477,1440
+800,Dinamo Zagreb,https://footballdatabase.com/clubs-ranking/dinamo-zagreb,57,1679
+801,Tianjin Jinmen Tiger FC,https://footballdatabase.com/clubs-ranking/tianjin-jinmen-tiger-fc,2081,1250
+802,SK Slavia Praha,https://footballdatabase.com/clubs-ranking/slavia-prague,29,1749
+803,Henan Songshan Longmen FC,https://footballdatabase.com/clubs-ranking/henan-songshan-longmen,1452,1299
+804,Ceará Sporting Club,https://footballdatabase.com/scores/2010-05-28,No disponible,No disponible
+805,Santa Clara,https://footballdatabase.com/clubs-ranking/cd-santa-clara,433,1453
+806,CF Rayo Majadahonda,No disponible,No disponible,No disponible
+807,BB Erzurumspor,https://footballdatabase.com/clubs-ranking/erzurum-buyukehir-belediyespor,1042,1342
+808,Neuchâtel Xamax FCS,No disponible,No disponible,No disponible
+809,KFC Uerdingen 05,No disponible,No disponible,No disponible
+810,Cosenza,https://footballdatabase.com/,No disponible,No disponible
+811,Fortuna Sittard,https://footballdatabase.com/clubs-ranking/fortuna-sittard,915,1357
+812,Padova,No disponible,No disponible,No disponible
+813,Extremadura UD,No disponible,No disponible,No disponible
+814,Grenoble Foot 38,https://footballdatabase.com/clubs-ranking/grenoble,667,1399
+815,AS Béziers,No disponible,No disponible,No disponible
+816,Lecce,https://footballdatabase.com/clubs-ranking/lecce,360,1475
+817,Al Hazem,https://footballdatabase.com/clubs-ranking/al-hazm,2483,1221
+818,San Martin de Tucumán,https://footballdatabase.com/clubs-ranking/ca-san-martin-de-tucuman,474,1441
+819,V-Varen Nagasaki,https://footballdatabase.com/clubs-ranking/v-varen-nagasaki,1596,1288
+820,FC Emmen,https://footballdatabase.com/clubs-ranking/fc-emmen,676,1397
+821,FC Wacker Innsbruck,https://footballdatabase.com/clubs-ranking/fc-wacker-innsbruck,1919,1261
+822,Ranheim Fotball,No disponible,No disponible,No disponible
+823,Miedź Legnica,https://footballdatabase.com/clubs-ranking/miedz-legnica,1704,1277
+824,Vejle Boldklub,https://footballdatabase.com/clubs-ranking/vejle-boldklub,1985,1256
+825,Waterford FC,https://footballdatabase.com/clubs-ranking/Waterford%20FC,989,1348
+826,Livingston FC,https://footballdatabase.com/clubs-ranking/livingston-fc,894,1359
+827,Vendsyssel FF,https://footballdatabase.com/clubs-ranking/vendsyssel-ff,1825,1268
+828,FC Energie Cottbus,No disponible,No disponible,No disponible
+829,Zagłębie Sosnowiec,https://footballdatabase.com/clubs-ranking/zaglebie-sosnowiec-sa,2046,1252
+830,Dalkurd FF,https://footballdatabase.com/clubs-ranking/dalkurd-ff,1796,1270
+831,Trelleborgs FF,https://footballdatabase.com/clubs-ranking/trelleborg-ff,2369,1231
+832,TSV Egger Glas Hartberg,No disponible,No disponible,No disponible
+833,Itagüí Leones FC,No disponible,No disponible,No disponible
+834,Macclesfield Town,No disponible,No disponible,No disponible
+835,Wuhan FC,https://footballdatabase.com/clubs-ranking/wuhan-fc,1617,1286
+836,Shenzhen FC,https://footballdatabase.com/clubs-ranking/shenzhen-shangqingyin,1302,1313
+837,Centro Sportivo Alagoano,https://footballdatabase.com/clubs-ranking/centro-sportivo-alagoano,685,1394
+838,Club Atlético de San Luis,https://footballdatabase.com/clubs-ranking/atletico-san-luis-mexico,940,1354
+839,Western United FC,https://footballdatabase.com/clubs-ranking/western-united-fc,1874,1264
+840,Fortaleza,https://footballdatabase.com/clubs-ranking/fortaleza-fc?fb_comment_id=259984124161673_1742868562539881,173,1556
+841,Denizlispor,https://footballdatabase.com/clubs-ranking/denizlispor,1988,1256
+842,Al Ain FC,https://footballdatabase.com/clubs-ranking/al-ain-abu-dhabi,279,1505
+843,Gazişehir Gaziantep F.K.,https://footballdatabase.com/clubs-ranking/gaziantep-bbk,406,1459
+844,Club Unión Magdalena S.A,https://footballdatabase.com/clubs-list-country/colombia,No disponible,No disponible
+845,FCSB (Steaua),https://footballdatabase.com/clubs-ranking/steaua-bucuresti,164,1562
+846,Futebol Clube de Famalicão,https://footballdatabase.com/clubs-ranking/fc-porto,11,1845
+847,Coquimbo Unido,https://footballdatabase.com/clubs-ranking/coquimbo-unido,793,1375
+848,CFR Cluj,https://footballdatabase.com/clubs-ranking/cfr-cluj,94,1619
+849,Universitatea Craiova,https://footballdatabase.com/clubs-ranking/u-craiova-1948,1499,1295
+850,FC Cincinnati,https://footballdatabase.com/clubs-ranking/fc-cincinnati,2701,1175
+851,Servette FC,https://footballdatabase.com/clubs-ranking/servette,653,1401
+852,Club Atlético Central Córdoba,https://footballdatabase.com/clubs-list-letter/C,No disponible,No disponible
+853,Pordenone,No disponible,No disponible,No disponible
+854,FC Viitorul Constanța,https://footballdatabase.com/ranking/romania/1,No disponible,No disponible
+855,Fútbol Club Juárez,https://footballdatabase.com/clubs-list-country/mexico,No disponible,No disponible
+856,FC Dinamo 1948 Bucureşti,https://footballdatabase.com/clubs-ranking/dinamo-bucuresti,1665,1282
+857,Damac FC,https://footballdatabase.com/clubs-ranking/damac-fc-khamis-mushait,900,1358
+858,AFC Astra Giurgiu,https://footballdatabase.com/clubs-ranking/astra-ploiesti,681,1395
+859,Castellammare di Stabia,No disponible,No disponible,No disponible
+860,CF Fuenlabrada,No disponible,No disponible,No disponible
+861,Abha Club,https://footballdatabase.com/clubs-ranking/abha-club-mahalah,1293,1314
+862,FC Botoşani,https://footballdatabase.com/clubs-ranking/botosani,584,1414
+863,Salford City,No disponible,No disponible,No disponible
+864,FC Bayern München II,https://footballdatabase.com/league-scores-tables/panama-liga-apertura-ii-2009,No disponible,No disponible
+865,Le Mans FC,https://footballdatabase.com/clubs-ranking/le-mans,624,1406
+866,Sepsi OSK Sf. Gheorghe,http://footballdatabase.com/clubs-scores/sepsi-osk/1,No disponible,No disponible
+867,WSG Tirol,https://footballdatabase.com/clubs-ranking/wsg-swarovski-wattens-tirol,1170,1327
+868,Gaz Metan Mediaş,https://footballdatabase.com/clubs-ranking/gaz-metan-medias,1096,1336
+869,Matsumoto Yamaga FC,https://footballdatabase.com/clubs-ranking/matsumoto-yamaga,1681,1280
+870,AFC Hermannstadt,https://footballdatabase.com/clubs-ranking/afc-hermannstadt-sibiu,1378,1305
+871,ŁKS Łódź,No disponible,No disponible,No disponible
+872,CSM Politehnica Iași,No disponible,No disponible,No disponible
+873,FC Chambly Oise,No disponible,No disponible,No disponible
+874,FC Voluntari,https://footballdatabase.com/clubs-ranking/fc-voluntari,1003,1347
+875,Al Adalah,No disponible,No disponible,No disponible
+876,SV Waldhof Mannheim 07,No disponible,No disponible,No disponible
+877,RKC Waalwijk,https://footballdatabase.com/clubs-ranking/rkc-waalwijk,959,1352
+878,Rodez Aveyron Football,No disponible,No disponible,No disponible
+879,Oita Trinita,https://footballdatabase.com/clubs-ranking/oita-trinita,1369,1306
+880,Raków Częstochowa,https://footballdatabase.com/clubs-ranking/ks-rakow-czestochowa,483,1439
+881,Viktoria Köln,https://footballdatabase.com/clubs-ranking/viktoria-plzen,81,1635
+882,AFC Chindia Târgoviște,https://footballdatabase.com/clubs-ranking/fc-chindia-targoviste,1171,1327
+883,FC Academica Clinceni,https://footballdatabase.com/clubs-ranking/acs-fc-academica-clinceni,1739,1275
+884,Inter Miami CF,https://footballdatabase.com/clubs-ranking/inter-miami,1439,1300
+885,Flamengo,https://footballdatabase.com/clubs-ranking/flamengo,25,1768
+886,Fatih Karagümrük S.K.,https://footballdatabase.com/clubs-ranking/fatih-karagumruk-istanbul,594,1412
+887,Shijiazhuang Ever Bright F.C.,No disponible,No disponible,No disponible
+888,Qingdao FC,https://footballdatabase.com/clubs-ranking/qingdao-fc,2528,1216
+889,Club Nacional de Football,https://footballdatabase.com/clubs-ranking/nacional-montevideo,194,1545
+890,Club Olimpia,https://footballdatabase.com/clubs-ranking/olimpia-asuncion,340,1479
+891,Independiente del Valle,https://footballdatabase.com/clubs-ranking/independiente-del-valle-sangolqui,113,1604
+892,Atakaş Hatayspor,No disponible,No disponible,No disponible
+893,Club Atlético Peñarol,https://footballdatabase.com/clubs-scores/penarol/1,No disponible,No disponible
+894,Club Libertad,No disponible,No disponible,No disponible
+895,Club Guaraní,No disponible,No disponible,No disponible
+896,Mazatlán Futbol Club,No disponible,No disponible,No disponible
+897,Club River Plate Asunción,No disponible,No disponible,No disponible
+898,LDU Quito,No disponible,No disponible,No disponible
+899,AC Monza,No disponible,No disponible,No disponible
+900,Nashville SC,No disponible,No disponible,No disponible
+901,FC Cartagena,No disponible,No disponible,No disponible
+902,Club Deportivo El Nacional,No disponible,No disponible,No disponible
+903,Deportivo Binacional,No disponible,No disponible,No disponible
+904,Sport Club Corinthians Paulista,No disponible,No disponible,No disponible
+905,SC Farense,No disponible,No disponible,No disponible
+906,K Beerschot VA,No disponible,No disponible,No disponible
+907,CS Emelec,No disponible,No disponible,No disponible
+908,Club Atlético Grau,No disponible,No disponible,No disponible
+909,FBC Melgar,No disponible,No disponible,No disponible
+910,Macarthur FC,No disponible,No disponible,No disponible
+911,Barcelona Sporting Club,No disponible,No disponible,No disponible
+912,Cusco Fútbol Club,No disponible,No disponible,No disponible
+913,Club Bolívar,No disponible,No disponible,No disponible
+914,Liverpool Fútbol Club,No disponible,No disponible,No disponible
+915,Club Alianza Lima,No disponible,No disponible,No disponible
+916,Club Sol de América,No disponible,No disponible,No disponible
+917,Sociedad Deportiva Aucas,No disponible,No disponible,No disponible
+918,Club Nacional,No disponible,No disponible,No disponible
+919,Club Plaza de Deportes Colonia,No disponible,No disponible,No disponible
+920,Club Atlético River Plate,No disponible,No disponible,No disponible
+921,UD Logroñés,No disponible,No disponible,No disponible
+922,C.D. Castellón,No disponible,No disponible,No disponible
+923,Club Always Ready,No disponible,No disponible,No disponible
+924,Delfín Sporting Club,No disponible,No disponible,No disponible
+925,Club Deportivo Jorge Wilstermann,No disponible,No disponible,No disponible
+926,Club Deportivo Oriente Petrolero,No disponible,No disponible,No disponible
+927,Club Atlético Nacional Potosí,No disponible,No disponible,No disponible
+928,C.D. Universidad Católica del Ecuador,No disponible,No disponible,No disponible
+929,Pau FC,No disponible,No disponible,No disponible
+930,PGE FKS Stal Mielec,No disponible,No disponible,No disponible
+931,Centro Atlético Fénix,No disponible,No disponible,No disponible
+932,"Club Social, Cultural y Deportivo de Blooming",No disponible,No disponible,No disponible
+933,Estudiantes de Mérida,No disponible,No disponible,No disponible
+934,Sport Huancayo,No disponible,No disponible,No disponible
+935,Warta Poznań,No disponible,No disponible,No disponible
+936,AC Mineros de Guayana,No disponible,No disponible,No disponible
+937,USL Dunkerque,No disponible,No disponible,No disponible
+938,Club Sportivo Luqueño,No disponible,No disponible,No disponible
+939,AFC UTA Arad,No disponible,No disponible,No disponible
+940,Yokohama FC,No disponible,No disponible,No disponible
+941,Caracas Fútbol Club,No disponible,No disponible,No disponible
